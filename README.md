@@ -1,2 +1,4 @@
-# terraform-learning-snippets
-Various learning snippets for Terraform
+# Various Terraform Snippets
+Various Terraform snippets written to support the learning activities
+
+
